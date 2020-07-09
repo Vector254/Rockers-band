@@ -20,3 +20,12 @@ h1
         background-color: #8a6328;
         color: goldenrod;
     }
+.nav 
+    {
+        float: right;
+        font-size: 17px;
+        background-color:#8a6328 ;
+        border-style: solid;
+        border-color: goldenrod;
+        padding-top: 10px;
+    }
