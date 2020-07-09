@@ -45,6 +45,7 @@ p
         border-width: 20px;
         margin-left:19%;
         margin-right:29%;
+        margin-top: 20px;
         padding-right: 5px;
         font-size:20px;
         color: #e6eee6;
@@ -52,9 +53,13 @@ p
         background-color: #2042b2;
         opacity: 0.5;
     }
-h2 
-    {
+.top 
+    {   
+        background-color: #800040 ;
         text-align: center;
-        padding-left: 15%;
+        padding-left: 5%;
         padding-top: 2%;
+        font-size: 20px;
+        font-family: 'Courier New', Courier, monospace;
+        font-weight: bold;
     }
