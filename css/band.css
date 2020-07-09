@@ -3,13 +3,16 @@ body
         background-image:url(../images/Rock.jpg);
     }
 h1 
-    {
+    {   
+        background-color: #800040;
+        border-radius:10px ;
         font-family: monospace;
         text-align: center;
         font-weight: bold;
         color: goldenrod;
         text-transform: uppercase;
         font-size: 35px;
+
     }
 .sidebar
     {
