@@ -7,7 +7,7 @@ h1
         font-family: monospace;
         text-align: center;
         font-weight: bold;
-        color: #191627;
+        color: goldenrod;
         text-transform: uppercase;
         font-size: 35px;
     }
@@ -19,6 +19,8 @@ h1
         border-style: solid;
         background-color: #8a6328;
         color: goldenrod;
+        margin-top: 8%;
+        padding-right: 20px;
     }
 .nav 
     {
@@ -27,5 +29,29 @@ h1
         background-color:#8a6328 ;
         border-style: solid;
         border-color: goldenrod;
-        padding-top: 10px;
+        padding-top: 30px;
+        color: goldenrod;
+        margin-top: 8%;
+
+
+    }
+p   
+    {   position: absolute;
+        border-style: solid;
+        border-color: goldenrod;
+        border-width: 20px;
+        margin-left:19%;
+        margin-right:29%;
+        padding-right: 5px;
+        font-size:20px;
+        color: #e6eee6;
+        text-indent: 10px;
+        background-color: #2042b2;
+        opacity: 0.5;
+    }
+h2 
+    {
+        text-align: center;
+        padding-left: 15%;
+        padding-top: 2%;
     }
