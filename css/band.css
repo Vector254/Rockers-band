@@ -1,0 +1,13 @@
+body 
+    {
+        background-image:url(../images/Rock.jpg);
+    }
+h1 
+    {
+        font-family: monospace;
+        text-align: center;
+        font-weight: bold;
+        color: #191627;
+        text-transform: uppercase;
+        font-size: 35px;
+    }
